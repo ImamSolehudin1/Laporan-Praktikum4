@@ -1,9 +1,9 @@
 # Laporan Praktikum 4
 
-NAMA    : IMAM SOLEHUDIN
-NIM     : 312110290
-KELAS   : TI.21.C.1
-MATKUL  : PEMROGRAMAN ORIENTASI OBJECT
+- NAMA    : IMAM SOLEHUDIN
+- NIM     : 312110290
+- KELAS   : TI.21.C.1
+- MATKUL  : PEMROGRAMAN ORIENTASI OBJECT
 
 ## SOAL!
 ## Implementasikan java code diagram class berikut:
